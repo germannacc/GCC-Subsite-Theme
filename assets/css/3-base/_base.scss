@@ -1,0 +1,20 @@
+/* Base Styles -------------------- */
+
+.content-section {
+  padding: 1rem 0;
+  position: relative;
+  background: $white;
+  
+  p {
+    margin-bottom: 1rem;
+  }
+  img {
+  	z-index: 0;
+  }
+}
+
+.entry-content {
+
+	padding: 1rem;
+
+}
